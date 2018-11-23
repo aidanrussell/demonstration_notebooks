@@ -1,1 +1,1 @@
-# www.aidanrussell.com/blog
+# www.aidanrussell.com/
