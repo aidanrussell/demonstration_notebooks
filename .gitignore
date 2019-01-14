@@ -182,6 +182,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-ipython_files/*
-ipython.html
+*ipython_files/*
+*ipython.html
 *.png
