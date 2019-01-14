@@ -183,5 +183,5 @@ $RECYCLE.BIN/
 *.lnk
 
 *ipython_files/*
-*ipython.html
+ipython.html
 *.png
