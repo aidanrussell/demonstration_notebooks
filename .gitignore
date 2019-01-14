@@ -182,6 +182,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-# End of https://www.gitignore.io/api/linux,macos,python,windows,jupyternotebook
-
+ipython_files/*
+ipython.html
